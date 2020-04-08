@@ -1,1 +1,1 @@
-Pasta criada para documentacao do projeto de coleta de lixo
+Pasta criada para guardar documentos de engenharia de software de projetos.
