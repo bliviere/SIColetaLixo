@@ -1,2 +1,2 @@
 # SIColetaLixo
-Projeto de Coleta de Lixo
+Projeto de Coleta de Lixo.
